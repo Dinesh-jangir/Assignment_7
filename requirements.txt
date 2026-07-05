@@ -1,0 +1,32 @@
+# python-dotenv 
+# fastapi 
+# pydantic 
+# langchain 
+# langchain-community 
+# langchain-huggingface 
+# langchain-google-genai 
+# faiss-cpu 
+# pypdf 
+# langchain-text-splitters
+# sentence-transformers
+# streamlit 
+# requests
+
+
+
+fastapi
+uvicorn
+streamlit
+python-dotenv
+
+langchain
+langchain-community
+langchain-huggingface
+
+faiss-cpu
+sentence-transformers
+
+huggingface_hub
+pypdf
+
+python-multipart
